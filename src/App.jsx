@@ -26,12 +26,12 @@ import "./styles.css";
 const siteProps = {
   name: "Alexandrie Grenier",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "alex@zhiqin.eu.org",
+  gitHub: "zhiqin14",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
+  twitter: "zhiqinii",
   youTube: "Code",
 };
 
